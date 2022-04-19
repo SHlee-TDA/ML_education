@@ -29,7 +29,6 @@
 
 # 튜터 소개
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/098d2270-bbfa-4ca8-be02-f58814467632/20202476_이성헌_사진.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/098d2270-bbfa-4ca8-be02-f58814467632/20202476_이성헌_사진.jpg)
 
 **이성헌**
 
@@ -60,7 +59,6 @@
 
 ## 교재
 
-![Hands_on_ML.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24ab16b4-6d43-4940-8266-5efccd2a188b/Hands_on_ML.jpg)
 
 **제목 : Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (2판)**
 
